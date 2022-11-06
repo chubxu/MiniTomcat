@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<web-app>
+    <servlet>
+        <servlet-name>default</servlet-name>
+        <servlet-class>org.chubxu.mini.tomcat.v003.servlet.impl.DefaultHttpServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>default</servlet-name>
+        <servlet-path>/dft</servlet-path>
+    </servlet-mapping>
+</web-app>
