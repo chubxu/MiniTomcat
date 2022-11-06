@@ -1,4 +1,4 @@
-package org.chubxu.mini.tomcat.utils;
+package org.chubxu.mini.tomcat.v1.utils;
 
 /**
  * @ClassName HttpProtocolUtil

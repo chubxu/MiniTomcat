@@ -1,6 +1,6 @@
-package org.chubxu.mini.tomcat;
+package org.chubxu.mini.tomcat.v1;
 
-import org.chubxu.mini.tomcat.utils.HttpProtocolUtil;
+import org.chubxu.mini.tomcat.v1.utils.HttpProtocolUtil;
 
 import java.io.IOException;
 import java.io.OutputStream;
